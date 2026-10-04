@@ -1,0 +1,1 @@
+A terminal-style solo play companion with guided rules, a scratchpad, and local saves. Build your story, one covert move at a time.

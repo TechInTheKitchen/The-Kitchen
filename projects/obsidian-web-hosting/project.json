@@ -1,0 +1,11 @@
+{
+  "title": "Obsidian Web Hosting",
+  "category": "Tools",
+  "url": "https://TechInTheKitchen.github.io/Obsidian-GitHub-Web-Hosting/",
+  "color": "#51435d",
+  "label": "Notes into websites",
+  "action": "Explore the template",
+  "image": "icon.svg",
+  "order": 4,
+  "imageFill": false
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">The Great Climb</title>
+  <rect width="64" height="64" rx="12" fill="#151b20"/>
+  <path d="M6 49 23 25l9 11 9-18 17 31H6Z" fill="#31434e" stroke="#a8c7d5" stroke-width="2" stroke-linejoin="round"/>
+  <path d="m17 34 6-9 9 11 9-18 8 15-8-4-4 9-6-5-6 6-8-5Z" fill="#e7f0f2"/>
+  <path d="M12 53h40" stroke="#a8c7d5" stroke-width="2" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Entrenched",
+    "category": "Tabletop games",
+    "url": "https://techinthekitchen.github.io/Entrenched/",
+    "color": "#594732",
+    "label": "The endless war",
+    "action": "Enter the field manual",
+    "image": "projects/entrenched/Battleborn.jpg",
+    "order": 1,
+    "imageFill": true,
+    "description": "A body-horror tabletop RPG of military sappers, impossible objectives, and an endless industrial war. Death is only the beginning."
+  },
+  {
+    "title": "The Great Climb",
+    "category": "Tabletop games",
+    "url": "https://techinthekitchen.github.io/The-Great-Climb/",
+    "color": "#365663",
+    "label": "Beyond the clouds",
+    "action": "Begin the ascent",
+    "image": "projects/the-great-climb/Climb.webp",
+    "order": 2,
+    "imageFill": true,
+    "description": "Gather your rope team and ascend Mount Aster. A cooperative tabletop journey about trust, discovery, and the promise of eternal life."
+  },
+  {
+    "title": "cloak\\dagger\\system",
+    "category": "Solo play",
+    "url": "https://techinthekitchen.github.io/-Cloak-Dagger-System--Web/",
+    "color": "#35472a",
+    "label": "Establish your cover",
+    "action": "Open the terminal",
+    "credit": "Unofficial web adaptation of Ruminastro’s game.",
+    "image": "projects/cloak-dagger-system/icon.svg",
+    "order": 3,
+    "imageFill": false,
+    "description": "A terminal-style solo play companion with guided rules, a scratchpad, and local saves. Build your story, one covert move at a time."
+  },
+  {
+    "title": "Obsidian Web Hosting",
+    "category": "Tools",
+    "url": "https://TechInTheKitchen.github.io/Obsidian-GitHub-Web-Hosting/",
+    "color": "#51435d",
+    "label": "Notes into websites",
+    "action": "Explore the template",
+    "image": "projects/obsidian-web-hosting/icon.svg",
+    "order": 4,
+    "imageFill": false,
+    "description": "Give your notes a home on the web. A readable, customizable publishing template for Obsidian vaults, Markdown, and PDFs."
+  }
+]

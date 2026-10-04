@@ -1,0 +1,1 @@
+Give your notes a home on the web. A readable, customizable publishing template for Obsidian vaults, Markdown, and PDFs.

@@ -1,0 +1,58 @@
+/*
+  COLOR PALETTE
+  Change values in this file to re-theme the reader. The rest of the layout lives
+  in viewer.css and should not need editing for ordinary color customization.
+*/
+:root {
+  color-scheme: dark;
+  --bg: #171816;
+  --surface: #20211f;
+  --surface-2: #282a27;
+  --ink: #e7e3d8;
+  --muted: #aaa69c;
+  --faint: #716e67;
+  --line: #3d3f3a;
+  --accent: #b59662;
+  --accent-soft: #352f25;
+  --danger: #b66d62;
+  --success: #7f9b75;
+  --important: #8d83ad;
+  --warning: #bd8b52;
+  --shadow-color: rgba(0, 0, 0, .30);
+  --reader-shadow: rgba(0, 0, 0, .20);
+  --scrim-color: rgba(0, 0, 0, .55);
+  --reader-panel: rgba(23, 24, 22, .96);
+  --reader-edge: rgba(181, 150, 98, .16);
+  --page-background-image: none;
+  --page-background-wash: rgba(14, 15, 13, .78);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #e9e1cf;
+  --surface: #f5efdf;
+  --surface-2: #ebe2cf;
+  --ink: #1d1b16;
+  --muted: #504a3e;
+  --faint: #6d6556;
+  --line: #cfc3ac;
+  --accent: #624a29;
+  --accent-soft: #e7d9bd;
+  --danger: #853e36;
+  --success: #3f673e;
+  --important: #594b83;
+  --warning: #80511e;
+  --shadow-color: rgba(54, 44, 28, .14);
+  --reader-shadow: rgba(54, 44, 28, .09);
+  --scrim-color: rgba(20, 18, 14, .40);
+  --reader-panel: rgba(247, 241, 226, .96);
+  --reader-edge: rgba(98, 74, 41, .16);
+  --page-background-image: none;
+  --page-background-wash: rgba(233, 225, 207, .88);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}

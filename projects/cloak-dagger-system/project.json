@@ -1,0 +1,12 @@
+{
+  "title": "cloak\\dagger\\system",
+  "category": "Solo play",
+  "url": "https://techinthekitchen.github.io/-Cloak-Dagger-System--Web/",
+  "color": "#35472a",
+  "label": "Establish your cover",
+  "action": "Open the terminal",
+  "credit": "Unofficial web adaptation of Ruminastro’s game.",
+  "image": "icon.svg",
+  "order": 3,
+  "imageFill": false
+}
