@@ -24,6 +24,18 @@
     "description": "Gather your rope team and ascend Mount Aster. A cooperative tabletop journey about trust, discovery, and the promise of eternal life."
   },
   {
+    "title": "Remedial Magic",
+    "category": "Tabletop games",
+    "url": "https://techinthekitchen.github.io/remedial-magic/",
+    "color": "#E1BF7A",
+    "label": "Missing eyebrows are an educational outcome",
+    "action": "Read the syllabus",
+    "image": "projects/remedial-magic/wand.webp",
+    "order": 3,
+    "imageFill": true,
+    "description": "Welcome to Pengorgon's Remedial Institute for Summer Magical Studies or PRISMS. Your last magical mishap earned you a summer of supervised instruction. Fortunately, Professor Quill is supervising through his eyelids."
+  },
+  {
     "title": "cloak\\dagger\\system",
     "category": "Solo play",
     "url": "https://techinthekitchen.github.io/-Cloak-Dagger-System--Web/",
@@ -32,7 +44,7 @@
     "action": "Open the terminal",
     "credit": "Unofficial web adaptation of Ruminastro’s game.",
     "image": "projects/cloak-dagger-system/icon.svg",
-    "order": 3,
+    "order": 4,
     "imageFill": false,
     "description": "A terminal-style solo play companion with guided rules, a scratchpad, and local saves. Build your story, one covert move at a time."
   },
@@ -44,7 +56,7 @@
     "label": "Notes into websites",
     "action": "Explore the template",
     "image": "projects/obsidian-web-hosting/icon.svg",
-    "order": 4,
+    "order": 99,
     "imageFill": false,
     "description": "Give your notes a home on the web. A readable, customizable publishing template for Obsidian vaults, Markdown, and PDFs."
   }

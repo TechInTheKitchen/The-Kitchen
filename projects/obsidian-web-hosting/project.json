@@ -6,6 +6,6 @@
   "label": "Notes into websites",
   "action": "Explore the template",
   "image": "icon.svg",
-  "order": 4,
+  "order": 99,
   "imageFill": false
 }
