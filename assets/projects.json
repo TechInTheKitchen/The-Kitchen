@@ -36,6 +36,18 @@
     "description": "Welcome to Pengorgon's Remedial Institute for Summer Magical Studies or PRISMS. Your last magical mishap earned you a summer of supervised instruction. Fortunately, Professor Quill is supervising through his eyelids."
   },
   {
+    "title": "Stars, Stone & Salt Tarot",
+    "category": "Tabletop games",
+    "url": "https://starsstoneandsalt.the-kitchen.dev/",
+    "color": "#342B40",
+    "label": "A shuffled deck. An open mind.",
+    "action": "Find yourself in the cards",
+    "image": "projects/stars-stone-salt-tarot/Pentacles12.webp",
+    "order": 4,
+    "imageFill": true,
+    "description": "Draw from a shuffled 78-card deck, explore card meanings and notes, and keep your place between visits."
+  },
+  {
     "title": "cloak\\dagger\\system",
     "category": "Solo play",
     "url": "https://techinthekitchen.github.io/-Cloak-Dagger-System--Web/",
@@ -44,7 +56,7 @@
     "action": "Open the terminal",
     "credit": "Unofficial web adaptation of Ruminastro’s game.",
     "image": "projects/cloak-dagger-system/icon.svg",
-    "order": 4,
+    "order": 5,
     "imageFill": false,
     "description": "A terminal-style solo play companion with guided rules, a scratchpad, and local saves. Build your story, one covert move at a time."
   },

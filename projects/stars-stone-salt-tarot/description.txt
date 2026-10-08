@@ -1,0 +1,1 @@
+Draw from a shuffled 78-card deck, explore card meanings and notes, and keep your place between visits.
