@@ -1,0 +1,1 @@
+A lightweight web app for TTRPG players to check faction standings and read short notes provided by the DM.

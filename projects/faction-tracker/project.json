@@ -1,0 +1,11 @@
+{
+  "title": "Faction Tracker",
+  "category": "Tabletop games",
+  "url": "https://factiontracker.the-kitchen.dev/",
+  "color": "#C86530",
+  "label": "Friends, enemies, and everyone watching.",
+  "action": "The campaign ledger awaits",
+  "image": "Agnolo_Bronzino_-_The_Crossing_of_the_Red_Sea_-_Detail_of_Strozzi_Coat_of_Arms.webp",
+  "order": 6,
+  "imageFill": true
+}

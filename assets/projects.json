@@ -61,6 +61,18 @@
     "description": "A terminal-style solo play companion with guided rules, a scratchpad, and local saves. Build your story, one covert move at a time."
   },
   {
+    "title": "Faction Tracker",
+    "category": "Tabletop games",
+    "url": "https://factiontracker.the-kitchen.dev/",
+    "color": "#C86530",
+    "label": "Friends, enemies, and everyone watching.",
+    "action": "The campaign ledger awaits",
+    "image": "projects/faction-tracker/Agnolo_Bronzino_-_The_Crossing_of_the_Red_Sea_-_Detail_of_Strozzi_Coat_of_Arms.webp",
+    "order": 6,
+    "imageFill": true,
+    "description": "A lightweight web app for TTRPG players to check faction standings and read short notes provided by the DM."
+  },
+  {
     "title": "Obsidian Web Hosting",
     "category": "Tools",
     "url": "https://TechInTheKitchen.github.io/Obsidian-GitHub-Web-Hosting/",
