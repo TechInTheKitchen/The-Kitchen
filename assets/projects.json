@@ -73,6 +73,18 @@
     "description": "A lightweight web app for TTRPG players to check faction standings and read short notes provided by the DM."
   },
   {
+    "title": "Print Binder",
+    "category": "Tools",
+    "url": "https://print-binder.the-kitchen.dev/",
+    "color": "#f4ddc1",
+    "label": "Pages into handouts",
+    "action": "Fold the pages now",
+    "image": "projects/print-binder/printbinder.webp",
+    "order": 98,
+    "imageFill": true,
+    "description": "Arrange PDF and OpenDocument Text (ODT) pages into printable grids and folded booklets, entirely in your browser."
+  },
+  {
     "title": "Obsidian Web Hosting",
     "category": "Tools",
     "url": "https://TechInTheKitchen.github.io/Obsidian-GitHub-Web-Hosting/",
