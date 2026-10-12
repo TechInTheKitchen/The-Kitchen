@@ -1,0 +1,11 @@
+{
+  "title": "Print Binder",
+  "category": "Tools",
+  "url": "https://print-binder.the-kitchen.dev/",
+  "color": "#f4ddc1",
+  "label": "Pages into handouts",
+  "action": "Fold the pages now",
+  "image": "printbinder.webp",
+  "order": 98,
+  "imageFill": true
+}
